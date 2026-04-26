@@ -24,19 +24,13 @@
 * Lenguajes: [Python / C++]                 
 * Herramientas: Git, VS Code, VS2022
 
----
 
-## Proyectos
-
-Aquí encontrarás algunos de mis proyectos personales y prácticas.
-
----
 
 ## 📫 Contacto
 
-* 💼 LinkedIn: [TU LINKEDIN]
-* 📧 Email: [TU EMAIL]
+* 💼 LinkedIn:https://www.linkedin.com/in/alexa-garcia-gasta%C3%B1aga-303b89387/?skipRedirect=true
+
 
 ---
 
-⭐ Gracias por visitar mi perfil
+⭐ Gracias por visitar mi perfil papu
