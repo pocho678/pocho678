@@ -10,27 +10,25 @@
      . 
                             | Age: 18 candles ⋆˚࿔ | | Software Engineering⋆˚࿔ |
                                                  ⚈ ․̫ ⚈ ..                                            
+                                      "Done is better than perfect"
+
+## 𖤓 Sobre mí
+* Programming and programming 
+* Software Engineering student at UPC (3rd cycle)
+* Goal: become a developer at Riot Games
+* Interested in game design and programming
 
 
-## 🧠 Sobre mí
+## Tecnologías🧸ɞ
 
-* 🔍 Me gusta aprender constantemente
-* ⚙️ Interesado en desarrollo de software y buenas prácticas
-* 📈 Enfocado en mejorar mis habilidades cada día
-
----
-
-## 🛠️ Tecnologías
-
-* Lenguajes: [Java / Python / JS / etc]
-* Frameworks: [React / Spring / etc]
-* Herramientas: Git, VS Code
+* Lenguajes: [Python / C++]                 
+* Herramientas: Git, VS Code, VS2022
 
 ---
 
-## 📌 Proyectos
+## Proyectos
 
-🔹 Aquí encontrarás algunos de mis proyectos personales y prácticas.
+Aquí encontrarás algunos de mis proyectos personales y prácticas.
 
 ---
 
