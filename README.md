@@ -10,7 +10,7 @@
      . 
                             | Age: 18 candles ⋆˚࿔ | | Software Engineering⋆˚࿔ |
                                                  ⚈ ․̫ ⚈ ..                                            
-                                      "Done is better than perfect"
+                                      "Perfect is better than Done"
 
 ## 𖤓 Sobre mí
 * Programming and programming 
@@ -21,7 +21,7 @@
 
 ## Tecnologías🧸ɞ
 
-* Lenguajes: [Python / C++]                 
+* Lenguajes: [Python / C++/ JS]                 
 * Herramientas: Git, VS Code, VS2022
 
 
