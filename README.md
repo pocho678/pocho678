@@ -14,7 +14,7 @@
 
 ## 𖤓 Sobre mí
 * Programming and programming 
-* Software Engineering student at UPC (3rd cycle)
+* Software Engineering student at UPC (4th cycle)
 * Goal: become a developer at Riot Games
 * Interested in game design and programming
 
